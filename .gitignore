@@ -137,6 +137,3 @@ cython_debug/
 
 # Large Parquet Data files (Too big for GitHub)
 *.parquet
-
-# Project specific
-data.json
