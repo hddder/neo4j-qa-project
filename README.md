@@ -1,6 +1,6 @@
 # 🌍 知识图谱多跳查询与可视化系统
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://neo4j-app-project-p4s6k7iqxv7nhnpgxsdmei.streamlit.app/)
 
 这是一个基于 **Neo4j** 和 **Streamlit** 构建的轻量级知识图谱展示系统。它能够展示复杂的数据关联，并支持离线多跳推理查询。
 
@@ -36,7 +36,7 @@ streamlit run app.py
 
 ## 🌐 在线演示
 您可以通过以下链接直接访问部署在 Streamlit Cloud 上的演示版本：
-👉 [点击查看在线演示](https://your-app-link.streamlit.app/)
+👉 [点击查看在线演示](https://neo4j-app-project-p4s6k7iqxv7nhnpgxsdmei.streamlit.app/)
 
 ## 📂 项目结构
 - `app.py`: Web 可视化主程序
